@@ -1,7 +1,7 @@
-# 🏥 Responsive Hospital Website (HTML, CSS, JS, PHP)
+# 🏥 Responsive Hospital Website (HTML, CSS, JS, PHP, Bootstrap)
 
-A **responsive hospital management website** built using **HTML, CSS, JavaScript, and PHP**.  
-It provides patients with hospital information, doctor listings, appointment booking, and a smooth responsive design for all devices.
+A **responsive hospital management website** built using **HTML, CSS, JavaScript, Bootstrap (v4 & v5), and PHP**.  
+It provides patients with hospital information, doctor listings, appointment booking, and a smooth responsive design across all devices.
 
 ---
 
@@ -9,11 +9,11 @@ It provides patients with hospital information, doctor listings, appointment boo
 
 ### 👩‍⚕️ Patient/User Side
 - 🏠 **Home Page** with carousel & hospital introduction
-- 🧑‍⚕️ **Doctor Profiles** with details and images
-- 📅 **Appointment Booking** via PHP + MySQL backend
+- 🧑‍⚕️ **Doctor Profiles** with images and details
+- 📅 **Appointment Booking** form (PHP + MySQL backend)
 - 📝 **User Registration & Login**
 - 💬 **Feedback / Review Section**
-- 📱 **Responsive Design** for mobile, tablet & desktop
+- 📱 **Mobile-Friendly** with Bootstrap 4 & 5 responsive design
 
 ### 🛠️ Backend (PHP + MySQL)
 - 🔐 Secure login & registration
@@ -23,14 +23,15 @@ It provides patients with hospital information, doctor listings, appointment boo
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend** → HTML, CSS, JavaScript  
+- **Frontend** → HTML, CSS, JavaScript, Bootstrap (v4 + v5)  
 - **Backend** → PHP  
 - **Database** → MySQL  
-- **Styling** → Custom CSS + Responsive Layout  
+- **Styling** → Bootstrap + Custom CSS  
 
 ---
 
 ## 📂 Project Structure
+
 ```bash
 Hospital_Website/
 │

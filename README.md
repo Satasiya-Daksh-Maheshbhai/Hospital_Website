@@ -31,3 +31,41 @@ It provides patients with hospital information, doctor listings, appointment boo
 ---
 
 ## 📂 Project Structure
+```bash
+Hospital_Website/
+│
+├── index.php # Landing page
+├── home.php # Homepage content
+├── doctor.php # Doctor listing page
+├── register.php # User registration page
+├── logout.php # Logout functionality
+├── db.php # Database connection
+├── /images # Carousel, doctor & review images
+└── README.md # Project documentation
+```
+
+## ⚡ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+#### git clone https://github.com/Satasiya-Daksh-Maheshbhai/Hospital_Website.git
+
+#### cd Hospital_Website
+
+### 2️⃣ Setup Database
+
+#### Install XAMPP / WAMP (for Apache + MySQL)
+
+#### Create a new MySQL database (e.g., hospital_db)
+
+#### Import the SQL schema (if provided) or connect using db.php
+
+### 3️⃣ Run the Project
+
+#### Move the project folder to htdocs (if using XAMPP)
+
+#### Start Apache & MySQL from the control panel
+
+### Open in browser:
+
+#### http://localhost/Hospital_Website/

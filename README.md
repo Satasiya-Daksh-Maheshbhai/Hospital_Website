@@ -70,3 +70,10 @@ Hospital_Website/
 ### Open in browser:
 
 #### http://localhost/Hospital_Website/
+
+# 👨‍💻 Author
+
+## Daksh Satasiya
+linkedin link :-
+🔗 https://linkedin.com/in/daksh-satasiya-01ba92380
+
